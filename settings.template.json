@@ -1,0 +1,5 @@
+{
+    "evalue": 0.001,
+    "threads": 4,
+    "db_path": "https://raw.githubusercontent.com/HaidYi/acrfinder/master/dependencies/diamond_query/known-acr.faa"
+}

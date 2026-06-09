@@ -1,0 +1,4 @@
+qseqid	sseqid	pident	length	mismatch	gapopen	qstart	qend	sstart	send	evalue	bitscore
+NC_003216.1_28	AcrIIA1	83.2	149	25	0	7	155	1	149	5.02e-88	245
+NC_003216.1_30	AcrIIA3	90.4	125	12	0	1	125	1	125	7.48e-86	237
+NC_003216.1_29	AcrIIA2	51.6	122	52	2	1	115	1	122	3.79e-37	114

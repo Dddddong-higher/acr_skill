@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Temporary files from Prodigal / DIAMOND
+*.faa
+*.dmnd
+tmp_*
+final_result.txt
+
+# Results (user-generated, not part of skill)
+results/
+output/
+
+# Conda environment export (generated on user side)
+environment.yml
+
+# IDE / system
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log

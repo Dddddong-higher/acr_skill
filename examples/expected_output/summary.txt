@@ -1,0 +1,3 @@
+共发现 3 个候选 Acr 蛋白 (E-value < 0.001)。
+最佳候选: AcrIIA1 (查询蛋白 NC_003216.1_28, E-value = 5.02e-88)
+详细列表见 /mnt/cephfs/s2z1/db/AcrFinder/results/candidates/candidates.tsv
