@@ -20,6 +20,8 @@ Clone this repo and run the installer:
 git clone 
 cd anti-crispr-skill
 bash install.sh
+```
+
 The installer will:
 
 Create conda environment acr_skill (Python 3.9)
