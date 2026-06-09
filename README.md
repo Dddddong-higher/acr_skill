@@ -63,6 +63,8 @@ Example summary.txt content:
 - Internet access (to download dependencies and database)
 
 ## File Structure
+
+```text
 anti-crispr-skill/
 ├── SKILL.md               # Claude Code skill definition
 ├── README.md              # This file
@@ -72,6 +74,7 @@ anti-crispr-skill/
 ├── scripts/
 │   ├── run_acr_skill.py   # Main prediction workflow
 │   └── parse_result.py    # Result parser (filtering + summary)
+```
 
 ## Configuration
 Edit settings.template.json to change defaults:
